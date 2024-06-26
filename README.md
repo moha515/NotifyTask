@@ -1,7 +1,7 @@
 # NotifyTask
 NotifyTask is a task management app designed to help users stay organized and on top of their daily tasks. This app leverages local notifications, Firebase for user authentication, and state management with Cubit.
 
-#Features
+# Features
 - Task Management: Create, update, and delete tasks with ease.
 - Priority Setting: Assign priority levels to tasks to highlight their importance.
 - Date and Time Picker: Select specific dates and times for tasks to ensure timely reminders.
