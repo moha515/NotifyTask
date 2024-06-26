@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145689848615",
+    "project_id": "taskly-f29f2",
+    "storage_bucket": "taskly-f29f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145689848615:android:ff1b6aa794e504742dd702",
+        "android_client_info": {
+          "package_name": "com.example.notifytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMe-YHG7vadiE6uqIho3CfDf4YQBabzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
