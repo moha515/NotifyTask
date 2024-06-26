@@ -17,8 +17,9 @@ NotifyTask is a task management app designed to help users stay organized and on
 # Design Inspiration
 The design for NotifyTask is inspired by the beautiful ToDo List Card design available on [Behance](https://www.behance.net/gallery/98607067/ToDo-List-Card/modules/569240763).
 # Screenshots
-![Screenshot_1719398792](https://github.com/moha515/NotifyTask/assets/19934561/5f277c27-1fdb-454f-b1d1-05f2c9381355)
-![Screenshot_1719398786](https://github.com/moha515/NotifyTask/assets/19934561/0dbe0da1-122e-4d21-9faa-5d1c94849a5f)
+![Screenshot_1719398786](https://github.com/moha515/NotifyTask/assets/19934561/5f064564-f06c-4e39-85ee-edbbc96b9b8d)
+![Screenshot_1719398792](https://github.com/moha515/NotifyTask/assets/19934561/60a58b49-4fc3-4950-bee5-df0bb96c7cb1)
+
 ## Contact
 - Elfandi70@gmail.com
 
