@@ -23,4 +23,4 @@ The design for NotifyTask is inspired by the beautiful ToDo List Card design ava
 ## Contact
 - Elfandi70@gmail.com
 
-Project Link: https://github.com/yourusername/notifytask
+Project Link: https://github.com/moha515/NotifyTask
